@@ -1,0 +1,5 @@
+dessert: cake, ice-cream
+drink: wine, beer
+main: fish, beef
+appetizer: salad, bread
+side: fries, rice

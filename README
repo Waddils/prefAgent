@@ -1,0 +1,32 @@
+I ran this code using...
+ - Python 3.11.0
+ - Visual Studio Code [downloaded the Python Extension Pack and Python Debugger]
+
+        Name: Python Extension Pack
+    Id: donjayamanne.python-extension-pack
+    Description: Popular Visual Studio Code extensions for Python
+    Version: 1.7.0
+    Publisher: Don Jayamanne
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack
+
+        Name: Python Debugger
+    Id: ms-python.debugpy
+    Description: Python Debugger extension using `debugpy`.
+    Version: 2024.0.0
+    Publisher: Microsoft
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy
+
+
+
+You have 3 main folders:
+- ExampleTestCase (default ones you've given us)
+- src (my code)
+- TestCase (my examples I've written)
+
+
+Running the program on VSCode...
+1. Download the zip onto desktop or someplace
+2. Unzip the contents inside the folder
+3. Run VSCode and selected "Open Folder"
+4. Select Project3 and go to "src"
+5. A file called "main.py" will run the code

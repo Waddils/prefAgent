@@ -1,0 +1,8 @@
+fish BT beef IF
+ice-cream BT cake IF
+wine BT beer IF fish
+beer BT wine IF beef
+salad BT beer IF 
+fries BT rice IF
+bread BT cake IF wine
+beef BT bread IF 

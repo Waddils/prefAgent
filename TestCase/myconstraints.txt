@@ -1,0 +1,6 @@
+NOT ice-cream OR wine
+NOT salad OR coke
+NOT bread OR sprite
+NOT wine OR ice-cream
+NOT rice OR salad
+NOT cake OR wine
